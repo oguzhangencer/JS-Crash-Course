@@ -1,4 +1,4 @@
-// Template Literals
+//template literals
 
 const name = 'Oguz'
 
@@ -15,55 +15,4 @@ const currency = "TL"
 const total_amount = `Total: ${unit_price * piece} ${currency}`
 
 console.log(total_amount)
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
 
