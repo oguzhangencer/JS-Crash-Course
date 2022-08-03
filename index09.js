@@ -19,5 +19,5 @@ console.log(
 
 console.log(
   'Every: ',
-  product.every((product)=> product.price > >2)
+  product.every((product)=> product.price > 2)
 )
